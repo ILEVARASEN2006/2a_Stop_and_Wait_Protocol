@@ -2,7 +2,7 @@
 ## Name : ILEVARASEN S
 ## Reg No : 212224040120
 
-## 2a_Stop_and_Wait_Protocol
+## EXP-2a-Stop and Wai Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
